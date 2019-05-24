@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\informasi film\informasi film\bin\Debug\informasi film.exe.config
+C:\Users\asus\source\repos\informasi film\informasi film\bin\Debug\informasi film.exe
+C:\Users\asus\source\repos\informasi film\informasi film\bin\Debug\informasi film.pdb
+C:\Users\asus\source\repos\informasi film\informasi film\obj\Debug\informasi film.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\informasi film\informasi film\obj\Debug\informasi_film.Form1.resources
+C:\Users\asus\source\repos\informasi film\informasi film\obj\Debug\informasi_film.Properties.Resources.resources
+C:\Users\asus\source\repos\informasi film\informasi film\obj\Debug\informasi film.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\informasi film\informasi film\obj\Debug\informasi film.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\informasi film\informasi film\obj\Debug\informasi film.exe
+C:\Users\asus\source\repos\informasi film\informasi film\obj\Debug\informasi film.pdb
